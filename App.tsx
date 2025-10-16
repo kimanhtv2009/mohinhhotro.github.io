@@ -26,7 +26,7 @@ const App: React.FC = () => {
         {/* --- LOGO --- */}
         {/* Logo đã được cập nhật từ link Google Drive */}
         <img
-          src="https://drive.google.com/uc?export=view&id=1GSgbA-My379h3ZmVeIc4xyUH2UX5KB7Z"
+          src="https://raw.githubusercontent.com/kimanhtv2009/mohinhhotro.github.io/refs/heads/main/Untitled_design-removebg-preview.png"
           alt="Logo"
           className="mx-auto h-24 w-24 mb-4"
         />
