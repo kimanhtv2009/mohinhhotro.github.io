@@ -1,0 +1,5 @@
+{
+  "name": "Mô Hình hỗ trợ",
+  "description": "A simple web application to display Heyzine flipbooks in a clean, modern pop-up modal. Users can easily configure their own flipbook links.",
+  "requestFramePermissions": []
+}
